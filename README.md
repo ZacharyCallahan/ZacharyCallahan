@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently drowning in code!<br>🌱Studying at the Coding Dojo.<br>
+🔭 Currently drowning in code!<br>🌱 Studying at the Coding Dojo.<br>
 
 
 ## 🌐 Socials:
